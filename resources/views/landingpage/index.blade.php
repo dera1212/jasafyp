@@ -155,9 +155,39 @@
     </div>
 
 
-    <div class="container">
-
+    <div class="container-xxl proses">
+      <h2>Proses Berjalan </h2>
+      <img src="{{ asset('img/proses.png') }}" alt="">
     </div>
+
+
+    <div class="container analisis">
+      <h2>Kelebihan Dari Jasa FYP Kami</h2>
+      <div class="row align-items-start">
+        <div class="col-analisis">
+          <p>Layanan jasa FYP tiktok kami sudah memiliki member partisipan hingga puluhan ribu orang dan sudah teruji akun - akun yang dimilikinya. Kami siap maksimalkan untuk bisa mendorong konten Anda masuk FYP tiktok kapanpun. Analisis pemirsa, like, komentar hingga share dengan akun indonesia. Hal ini menandakan konten menyebar kepada pengguna indonesia.</p>
+          <p>Siap membantu branding produk bisnis Anda melalui konten FYP di tiktok! Kami sangat senang membantu Anda selaku pengusaha untuk meningkatkan engagement brand Anda.</p>
+          <p>Perlu di perhatikan bagi Anda ketika order, kami tidak menerima pesanan jika konten berkonotasi negativ. Contoh konten negativ seperti produk judi online, politik negatif, penyebar berita hoax dan konten - konten negativ lainnya. Maka dari itu pada proses mendorong konten tiktok FYP, kami menerapkan tahap review terlebih dahulu konten tersebut. Karena hal tersebut menjadi motivasi kami untuk terus berbuat baik dan menjaga citra dari layanan kami.</p>
+        </div>
+
+        <div class="col-analisis">
+          <img src="{{ asset('img/analisis.jpg') }}" alt="" width="100%">
+        </div>
+      </div>
+      
+    </div>
+
+
+    <div class="container promosi">
+      <h3>Tunggu Apalagi? Buruan Hits Di Tiktok Sekarang Juga!!<br>
+        Dapatkan Banyak Bonus Setelah Order Pertama Kalinya!!</h3> 
+        <div class="d-grid gap-2 col-2 mx-auto">
+          <button class="btn btn-primary" type="button">Pesan Sekarang</button>
+        </div>
+        
+    </div>
+
+    @include('landingpage.footer')
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
