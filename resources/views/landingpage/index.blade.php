@@ -19,7 +19,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 
     {{-- css --}}
-    <link rel="stylesheet" href="{{ asset('css/style.css?v=1.1') }}">
+    <link rel="stylesheet" href="{{ asset('css/style.css?v=1.2') }}">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -42,7 +42,7 @@
       <div class="row align-items-start">
 
         <div class="col">
-          <h1>Jasa FYP TikTok</h1>
+          <h1>Jasa FYP Tiktok</h1>
           <p>FYP konten menjadi sebuah capaian keinginan bagi para konten kreator tiktok. Dari FYP tersebut kreator bisa mendapatkan banyak keuntungan, karena itu sangat di harapkan oleh mereka. Adanya jasa FYP tiktok dari kami bisa bantu dorong konten Anda untuk masksimal masuk FYP.</p>
         </div>
 
@@ -159,7 +159,7 @@
 
     <div class="container-xxl proses">
       <h2>Proses Berjalan </h2>
-      <img src="{{ asset('img/proses.png') }}" alt="">
+      <img src="{{ asset('img/proses.webp') }}" alt="jasa fyp tiktok">
     </div>
 
 
@@ -173,7 +173,7 @@
         </div>
 
         <div class="col-analisis">
-          <img src="{{ asset('img/analisis.jpg') }}" alt="" width="100%">
+          <img src="{{ asset('img/analisis.webp') }}" alt="" width="100%">
         </div>
       </div>
       
@@ -183,9 +183,9 @@
     <div class="container promosi">
       <h3>Tunggu Apalagi? Buruan Hits Di Tiktok Sekarang Juga!!<br>
         Dapatkan Banyak Bonus Setelah Order Pertama Kalinya!!</h3> 
-        <div class="d-grid gap-2 col-2 mx-auto">
+        {{-- <div class="d-grid gap-2 col-2 mx-auto">
           <button class="btn btn-primary" type="submit" onclick="openWhatsApp()">Pesan Sekarang</button>
-        </div>
+        </div> --}}
         
     </div>
 
