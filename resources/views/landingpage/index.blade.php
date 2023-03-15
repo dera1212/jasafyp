@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Jasa FYP Tiktok</title>
 
-    <meta name="description" content="Layanan jasa FYP tiktok termurah, follower bertambah, view bertambah dan like pun semakin banyak.">
+    <meta name="description" content="Layanan jasa FYP tiktok termurah, follower bertambah, view, like dan komentar pun semakin banyak.">
 
-    <meta name="keywords" content="jasa fyp tiktok, jasa fyp, jasa fyp tiktok termurah, jasa follower tiktok, jasa view tiktok, jasa like tiktok">
+    <meta name="keywords" content="jasa fyp tiktok, jasa fyp, jasa fyp tiktok termurah, fyp tiktok, harga jasa fyp tiktok, layanan jasa fyp tiktok">
 
     <meta name="author" content="Rizal Ahmad">
 
