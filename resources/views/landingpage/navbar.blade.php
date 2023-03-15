@@ -8,7 +8,7 @@
       <div class="collapse navbar-collapse flex-row-reverse" id="navbarScroll">
         <ul class="navbar-nav me-3 my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 50vh;">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Beranda</a>
+            <a class="nav-link active" aria-current="page" href="/">Beranda</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://www.tiktok.com/foryou" target="_blank">Trend</a>
@@ -25,7 +25,7 @@
             </ul>
           </li> --}}
           <li class="nav-item">
-            <a class="nav-link" href="#">Layanan</a>
+            <a class="nav-link" href="#layanan-jasa-fyp-tiktok">Layanan</a>
           </li>
 
           <li class="nav-item">
@@ -33,7 +33,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="#">Kontak</a>
+            <a class="nav-link"  type="submit" onclick="openWhatsApp()">Kontak</a>
           </li>
         </ul>
         

@@ -75,17 +75,19 @@
     </div>
 
 
-    <div class="container-xxl harga">
+    <div class="container-xxl harga" id="layanan-jasa-fyp-tiktok">
       <h2>Harga Jasa <span>FYP TikTok </span>Termurah</h2>
       <p>Silahkan bandingkan dengan jasa FYP tiktok lain harga yang mana termurah? Sudah pasti kami yang paling murah dengan banyak kelebihan!</p>
       <div class="row">
 
         <div class="col-harga">
+          
           <h3>Entry</h3>
-          <p class="nominal">Rp <span>750.000</span></p>
+          
+          <p class="nominal" >Rp <span>750.000</span></p>
           <a href="/" class="link-no-dekor">
             <div class="d-grid">
-              <button class="btn btn-secondary btn-lg" type="button">Pesan Sekarang</button>
+              <a class="btn btn-secondary btn-lg" type="submit" onclick="entry()">Pesan Sekarang</a>
             </div>
           </a>
           <ul class="link-no-dekor fitur">
@@ -103,7 +105,7 @@
           <p class="nominal">Rp <span>1,2 Jt</span></p>
           <a href="/" class="link-no-dekor">
             <div class="d-grid">
-              <button class="btn btn-secondary btn-lg" type="button">Pesan Sekarang</button>
+              <a class="btn btn-secondary btn-lg" type="submit" onclick="small()">Pesan Sekarang</a>
             </div>
           </a>
           <ul class="link-no-dekor fitur">
@@ -121,7 +123,7 @@
           <p class="nominal">Rp <span>3,5 Jt</span></p>
           <a href="/" class="link-no-dekor">
             <div class="d-grid">
-              <button class="btn btn-primary btn-lg" type="button">Pesan Sekarang</button>
+              <a class="btn btn-primary btn-lg" ttype="submit" onclick="medium()">Pesan Sekarang</a>
             </div>
           </a>
           <ul class="link-no-dekor fitur">
@@ -139,7 +141,7 @@
           <p class="nominal">Rp <span>5,5 Jt</span></p>
           <a href="/" class="link-no-dekor">
             <div class="d-grid">
-              <button class="btn btn-secondary btn-lg" type="button">Pesan Sekarang</button>
+              <a class="btn btn-secondary btn-lg" type="submit" onclick="large()">Pesan Sekarang</a>
             </div>
           </a>
           <ul class="link-no-dekor fitur">
@@ -182,7 +184,7 @@
       <h3>Tunggu Apalagi? Buruan Hits Di Tiktok Sekarang Juga!!<br>
         Dapatkan Banyak Bonus Setelah Order Pertama Kalinya!!</h3> 
         <div class="d-grid gap-2 col-2 mx-auto">
-          <button class="btn btn-primary" type="button">Pesan Sekarang</button>
+          <button class="btn btn-primary" type="submit" onclick="openWhatsApp()">Pesan Sekarang</button>
         </div>
         
     </div>
@@ -192,6 +194,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
     
+    <script src="{{ asset('js/order.js') }}"></script>
+
   </body>
 
 
