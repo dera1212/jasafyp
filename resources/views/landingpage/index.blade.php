@@ -84,7 +84,7 @@
           
           <h3>Entry</h3>
           
-          <p class="nominal" >Rp <span>750.000</span></p>
+          <p class="nominal" >Rp <span>700.000</span></p>
           <a href="/" class="link-no-dekor">
             <div class="d-grid">
               <a class="btn btn-secondary btn-lg" type="submit" onclick="entry()">Pesan Sekarang</a>
@@ -92,8 +92,8 @@
           </a>
           <ul class="link-no-dekor fitur">
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 500++ User</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 50++ Komentar</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 100++ Like</li>
+            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 100++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 150++ Like</li>
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
             <li class="coret fitur-list"><img class="fitur-list" src="{{ asset('icon/x-square.svg') }}" style="color:white;">Share Story</li>
@@ -110,8 +110,8 @@
           </a>
           <ul class="link-no-dekor fitur">
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 1000++ User</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 50++ Komentar</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Like</li>
+            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 500++ Like</li>
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
             <li class="coret fitur-list"><img class="fitur-list" src="{{ asset('icon/x-square.svg') }}" style="color:white;">Share Story</li>
@@ -128,7 +128,7 @@
           </a>
           <ul class="link-no-dekor fitur">
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 3000++ User</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 100++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 1000++ Like</li>
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 2 Konten</li>
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
@@ -138,7 +138,7 @@
 
         <div class="col-harga normal">
           <h3>Large</h3>
-          <p class="nominal">Rp <span>5,5 Jt</span></p>
+          <p class="nominal">Rp <span>4,7 Jt</span></p>
           <a href="/" class="link-no-dekor">
             <div class="d-grid">
               <a class="btn btn-secondary btn-lg" type="submit" onclick="large()">Pesan Sekarang</a>
@@ -150,7 +150,7 @@
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 5000++ Like</li>
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
             <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">200 Share Story</li>  
+            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">250 Share Story</li>  
           </ul>
         </div>
       </div>
