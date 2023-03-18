@@ -44,7 +44,7 @@
     <div class="container">
         <div class="row-blog">
             <div class="col-blog">
-                <img src="{{ asset('img/logotiktok.png') }}" alt="jasa fyp tiktok">
+                <img src="{{ asset('img/jasafyptiktok.jpg') }}" alt="algoritma fyp tiktok">
                 <h3><a href="/blog/algoritma-fyp-tiktok">Algoritma FYP Tiktok Belum Banyak Orang Tahu!</a></h3>
                 <p>Cara atau algoritma fyp tiktok belum banyak yang tahu, hal ini membuat sulit kita untuk bisa viral. Simak algoritmnya berikut versi admin.</p>
             </div>
