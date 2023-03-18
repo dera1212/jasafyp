@@ -1,6 +1,8 @@
 <?php
 
 use App\Http\Controllers\LandingpageController;
+use App\Http\Controllers\SitemapXmlController;
+use App\Http\Controllers\HalamanBlog;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -20,3 +22,9 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', [LandingpageController::class, 'index']);
+
+Route::get('/sitemap.xml', [SitemapXmlController::class, 'index']);
+
+Route::get('/blog', [HalamanBlog::class, 'index']);
+
+Route::get('/blog/algoritma-fyp-tiktok', [HalamanBlog::class, 'artikel1']);
