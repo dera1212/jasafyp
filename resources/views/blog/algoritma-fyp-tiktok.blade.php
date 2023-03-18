@@ -46,7 +46,7 @@
 
             <div class="col-8">
                 <h1>Algoritma FYP Tiktok Belum Banyak Orang Tahu!</h1>
-                <span>Posting dd, mm, yyyy</span>
+                <span>Posting 18, 03, 2023</span>
                 <img src="{{ asset('img/jasafyptiktok.jpg') }}" alt="algoritma fyp tiktok">
                 <p>Ternyata belum banyak yang tahu algoritma FYP tiktok itu seperti apa. Banyak orang berbeda - beda pendapat tentang algoritma fyp tiktok ini. Kenapa mereka berbeda - beda pendapat? Karena mereka berbicara berdasarkan pengalamannya terkait konten masuk FYP tiktok. Admin juga menulis artikel ini bukan sepenuhnya tentang algoritma fyp tiktok yang sesungguhnya tapi berdasarkan pengalaman, analisa dan pengetahuan pribadi.</p>
 
