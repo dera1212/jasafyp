@@ -61,7 +61,7 @@
                 <p>Nah dari beberapa poin di atas admin sangat setuju, namun ada hal lain yang menurut admin penting untuk di kombinasikan dengan ketiga poin di atas, apa itu? Pemilihan waktu yang tepat untuk upload atau posting konten tiktok kita. Carilah jam dimana orang atau banyak pengguna aktiv di jam tersebut. Contohnya jam pulang kerja antara jam 6 sore hingga jam 8 atau 9 malam. Sehingga konten kita berpeluang menghasilkan banyak yang lihat dari pengikut atau orang terdekat dan memungkinkan bisa masuk fyp tiktok.</p>
                 <h3>FYP Versi Admin</h3>
                 <p>Berikutnya admin jelaskan tahapan fyp tiktok menurut admin pribadi seperti apa. FYP terjadi ketika konten tiktok kita mendapatkan banyak interaksi secara bersamaan dalam waktu yang singkat. Interaksi ini meliputi banyak view, like, komentar dan bahkan share. Ketika konten memiliki banyak interaksi artinya insight akan meningkat dan jangkauan konten akan meluas di lihat banyak orang.</p>
-                <p>Cek haga : <a href="https://jasafyp.com/">Jasa FYP Tiktok</a></p>
+                <p>Cek harga : <a href="https://jasafyp.com/">Jasa FYP Tiktok</a></p>
             </div>
 
             <div class="col-4">
