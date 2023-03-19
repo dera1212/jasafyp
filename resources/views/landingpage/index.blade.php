@@ -9,6 +9,8 @@
 
     <meta name="keywords" content="jasa fyp tiktok, jasa fyp, jasa fyp tiktok termurah, fyp tiktok, harga jasa fyp tiktok, layanan jasa fyp tiktok">
 
+    <meta property="og:image" content="{{ asset('img/logotiktok.png') }}" />
+
     <meta name="author" content="Rizal Ahmad">
 
     <link rel="canonical" href="https://jasafyp.com/"/>
@@ -31,6 +33,8 @@
     <link rel="apple-touch-icon" href="{{ asset('img/logotiktok.png') }}">
     <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('img/logotiktok.png') }}">
     <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('img/logotiktok.png') }}">
+
+    @include('landingpage.taganalitik')
 
   </head>
 
@@ -87,16 +91,16 @@
           <p class="nominal" >Rp <span>700.000</span></p>
           <a href="/" class="link-no-dekor">
             <div class="d-grid">
-              <a class="btn btn-secondary btn-lg" type="submit" onclick="entry()">Pesan Sekarang</a>
+              <button class="btn btn-secondary btn-lg" type="submit" onclick="entry()">Pesan Sekarang</button>
             </div>
           </a>
           <ul class="link-no-dekor fitur">
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 500++ User</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 100++ Komentar</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 150++ Like</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
-            <li class="coret fitur-list"><img class="fitur-list" src="{{ asset('icon/x-square.svg') }}" style="color:white;">Share Story</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 500++ User</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 100++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 150++ Like</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
+            <li class="coret fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/x-square.svg') }}" style="color:white;">Share Story</li>
           </ul>
         </div>
 
@@ -105,16 +109,16 @@
           <p class="nominal">Rp <span>1,2 Jt</span></p>
           <a href="/" class="link-no-dekor">
             <div class="d-grid">
-              <a class="btn btn-secondary btn-lg" type="submit" onclick="small()">Pesan Sekarang</a>
+              <button class="btn btn-secondary btn-lg" type="submit" onclick="small()">Pesan Sekarang</button>
             </div>
           </a>
           <ul class="link-no-dekor fitur">
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 1000++ User</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 500++ Like</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
-            <li class="coret fitur-list"><img class="fitur-list" src="{{ asset('icon/x-square.svg') }}" style="color:white;">Share Story</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 1000++ User</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 500++ Like</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
+            <li class="coret fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/x-square.svg') }}" style="color:white;">Share Story</li>
           </ul>
         </div>
 
@@ -123,16 +127,16 @@
           <p class="nominal">Rp <span>3,5 Jt</span></p>
           <a href="/" class="link-no-dekor">
             <div class="d-grid">
-              <a class="btn btn-primary btn-lg" ttype="submit" onclick="medium()">Pesan Sekarang</a>
+              <button class="btn btn-primary btn-lg" ttype="submit" onclick="medium()">Pesan Sekarang</button>
             </div>
           </a>
           <ul class="link-no-dekor fitur">
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 3000++ User</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 1000++ Like</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 2 Konten</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">100 Share Story</li>  
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 3000++ User</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 1000++ Like</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 2 Konten</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">100 Share Story</li>  
           </ul>
         </div>
 
@@ -141,16 +145,16 @@
           <p class="nominal">Rp <span>4,7 Jt</span></p>
           <a href="/" class="link-no-dekor">
             <div class="d-grid">
-              <a class="btn btn-secondary btn-lg" type="submit" onclick="large()">Pesan Sekarang</a>
+              <button class="btn btn-secondary btn-lg" type="submit" onclick="large()">Pesan Sekarang</button>
             </div>
           </a>
           <ul class="link-no-dekor fitur">
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 10.000++ User</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 5000++ Like</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
-            <li class="fitur-list"><img class="fitur-list" src="{{ asset('icon/check-square.svg') }}" style="color:white;">250 Share Story</li>  
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 10.000++ User</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 5000++ Like</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">250 Share Story</li>  
           </ul>
         </div>
       </div>
@@ -173,7 +177,7 @@
         </div>
 
         <div class="col-analisis">
-          <img src="{{ asset('img/analisis.webp') }}" alt="" width="100%">
+          <img src="{{ asset('img/analisis.webp') }}" alt="analitik fyp tiktok" width="100%">
         </div>
       </div>
       

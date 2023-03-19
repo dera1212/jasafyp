@@ -33,6 +33,8 @@
     <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('img/logotiktok.png') }}">
     <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('img/logotiktok.png') }}">
 
+    @include('landingpage.taganalitik')
+
   </head>
 
   <body>

@@ -33,7 +33,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link"  type="submit" onclick="openWhatsApp()">Kontak</a>
+            <a class="nav-link" href="https://api.whatsapp.com/send?phone=6281938347315&text=Halo kak.. saya mau order " type="button" target="_blank">Kontak</a>
           </li>
         </ul>
         

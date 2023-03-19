@@ -9,6 +9,8 @@
 
     <meta name="keywords" content="algoritma fyp tiktok, fyp tiktok, jasa fyp tiktok">
 
+    <meta property="og:image" content="{{ asset('img/jasafyptiktok.jpg') }}" />
+
     <meta name="author" content="Rizal Ahmad">
 
     <link rel="canonical" href="https://jasafyp.com/blog/algoritma-fyp-tiktok"/>
@@ -33,6 +35,8 @@
     <link rel="apple-touch-icon" href="{{ asset('img/logotiktok.png') }}">
     <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('img/logotiktok.png') }}">
     <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('img/logotiktok.png') }}">
+
+    @include('landingpage.taganalitik')
 
   </head>
 
