@@ -3,20 +3,29 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Jasa FYP Tiktok</title>
+    <title>Jasa FYP Tiktok Indonesia - jasafyp.com</title>
 
     <meta name="description" content="Layanan jasa FYP tiktok termurah, follower bertambah, view, like dan komentar pun semakin banyak.">
 
     <meta name="keywords" content="jasa fyp tiktok, jasa fyp, jasa fyp tiktok termurah, fyp tiktok, harga jasa fyp tiktok, layanan jasa fyp tiktok">
 
-    <meta property="og:image" content="{{ asset('img/logotiktok.png') }}" />
-
     <meta name="author" content="Rizal Ahmad">
 
     <link rel="canonical" href="https://jasafyp.com/"/>
+    <link rel="alternate" hreflang="en" href="https://jasafyp.com/">
+    <link rel="alternate" hreflang="id" href="https://jasafyp.com/">
 
+    <meta property="og:title" content="Jasa FYP Tiktok Indonesia - jasafyp.com" />
+    <meta property="og:url" content="https://jasafyp.com/" />
+    <meta property="og:image" content="{{ asset('img/logotiktok.png') }}" />
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://jasafyp.com/"/>
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@jeni_lutfi2" />
+    <meta name="twitter:title" content="Jasa FYP Tiktok Indonesia - jasafyp.com" />
+    <meta name="twitter:description" content="Layanan jasa FYP tiktok termurah, follower bertambah, view, like dan komentar pun semakin banyak." />
+    <meta property="og:image" content="{{ asset('img/logotiktok.png') }}" />
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 
