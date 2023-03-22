@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary p-3 bg-opacity-75 bg-dark" data-bs-theme="dark">
     <div class="container-fluid">
-      <a class="navbar-brand ms-3" href="/"><img src="{{ asset('img/logotiktok.png') }}" alt="jasa fyp tiktok" width="30" height="30" class="d-inline-block align-text-top">FYP TikTok</a>
+      <a class="navbar-brand ms-3" href="/"><img src="{{ asset('img/logotiktok.webp') }}" alt="jasa fyp tiktok" width="30" height="30" class="d-inline-block align-text-top">FYP TikTok</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
