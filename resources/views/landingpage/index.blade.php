@@ -12,7 +12,6 @@
     <meta name="author" content="Rizal Ahmad">
 
     <link rel="canonical" href="https://jasafyp.com/"/>
-    <link rel="alternate" hreflang="en" href="https://jasafyp.com/">
     <link rel="alternate" hreflang="id" href="https://jasafyp.com/">
 
     <meta property="og:title" content="Jasa FYP Tiktok Indonesia - jasafyp.com" />
@@ -26,7 +25,7 @@
     <meta name="twitter:site" content="@jeni_lutfi2" />
     <meta name="twitter:title" content="Jasa FYP Tiktok Indonesia - jasafyp.com" />
     <meta name="twitter:description" content="Layanan jasa FYP tiktok termurah, follower bertambah, view, like dan komentar pun semakin banyak." />
-    <meta property="twitter:image" content="{{ asset('img/logotiktok.png') }}" />
+    <meta name="twitter:image" content="{{ asset('img/logotiktok.png') }}" />
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 
@@ -96,12 +95,12 @@
             </div>
           </a>
           <ul class="link-no-dekor fitur">
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 500++ User</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 100++ Komentar</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 150++ Like</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
-            <li class="coret fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/x-square.svg') }}" style="color:white;">Share Story</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Jangkau 500++ User</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Push 100++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Push 150++ Like</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Untuk 1 Konten</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Analisis Pemirsa Indonesia</li>
+            <li class="coret fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/x-square.svg') }}" style="color:white; width: 25px; height: 25px;">Share Story</li>
           </ul>
         </div>
 
@@ -114,12 +113,12 @@
             </div>
           </a>
           <ul class="link-no-dekor fitur">
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 1000++ User</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 500++ Like</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
-            <li class="coret fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/x-square.svg') }}" style="color:white;">Share Story</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Jangkau 1000++ User</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Push 200++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Push 500++ Like</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Untuk 1 Konten</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Analisis Pemirsa Indonesia</li>
+            <li class="coret fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/x-square.svg') }}" style="color:white; width: 25px; height: 25px;">Share Story</li>
           </ul>
         </div>
 
@@ -132,12 +131,12 @@
             </div>
           </a>
           <ul class="link-no-dekor fitur">
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 3000++ User</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 1000++ Like</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 2 Konten</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">100 Share Story</li>  
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Jangkau 3000++ User</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Push 200++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Push 1000++ Like</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Untuk 2 Konten</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Analisis Pemirsa Indonesia</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">100 Share Story</li>  
           </ul>
         </div>
 
@@ -150,12 +149,12 @@
             </div>
           </a>
           <ul class="link-no-dekor fitur">
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Jangkau 10.000++ User</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 200++ Komentar</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Push 5000++ Like</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Untuk 1 Konten</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">Analisis Pemirsa Indonesia</li>
-            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white;">250 Share Story</li>  
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Jangkau 10.000++ User</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Push 200++ Komentar</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Push 5000++ Like</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Untuk 1 Konten</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">Analisis Pemirsa Indonesia</li>
+            <li class="fitur-list"><img class="fitur-list" alt="jasa fyp" src="{{ asset('icon/check-square.svg') }}" style="color:white; width: 25px; height: 25px;">250 Share Story</li>  
           </ul>
         </div>
       </div>

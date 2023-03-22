@@ -3,11 +3,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="icon" type="image/x-icon" href="{{ asset('img/logotiktok.png') }}">
-    <link rel="shortcut icon" href="{{ asset('img/logotiktok.png') }}">
-    <link rel="apple-touch-icon" href="{{ asset('img/logotiktok.png') }}">
-    <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('img/logotiktok.png') }}">
-    <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('img/logotiktok.png') }}">
+    <link rel="icon" type="image/x-icon" href="{{ asset('img/logotiktok.webp') }}">
+    <link rel="shortcut icon" href="{{ asset('img/logotiktok.webp') }}">
+    <link rel="apple-touch-icon" href="{{ asset('img/logotiktok.webp') }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('img/logotiktok.webp') }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('img/logotiktok.webp') }}">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-82QKQK7T2G"></script>
