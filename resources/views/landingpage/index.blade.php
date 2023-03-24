@@ -191,12 +191,8 @@
 
 
     <div class="container promosi">
-      <h4>Tunggu Apalagi? Buruan Hits Di Tiktok Sekarang Juga!!<br>
-        Dapatkan Banyak Bonus Setelah Order Pertama Kalinya!!</h4> 
-        {{-- <div class="d-grid gap-2 col-2 mx-auto">
-          <button class="btn btn-primary" type="submit" onclick="openWhatsApp()">Pesan Sekarang</button>
-        </div> --}}
-        
+      <h4>Tunggu Apalagi? Buruan Hits Di Tiktok Sekarang Juga!!
+        Dapatkan Banyak Bonus Setelah Order Pertama Kalinya!!</h4>         
     </div>
 
     @include('landingpage.footer')
