@@ -16,6 +16,8 @@
     <link rel="alternate" hreflang="id-id" href="https://jasafyp.com/">
 
     <meta http-equiv="content-language" content="id-id">
+    <meta http-equiv="content-language" content="id">
+    <meta http-equiv="content-language" content="en-us">
 
     <meta property="og:title" content="Jasa FYP Tiktok Indonesia - jasafyp.com" />
     <meta property="og:description" content="Layanan jasa FYP tiktok termurah, follower bertambah, view, like dan komentar pun semakin banyak."/>
@@ -189,8 +191,8 @@
 
 
     <div class="container promosi">
-      <h3>Tunggu Apalagi? Buruan Hits Di Tiktok Sekarang Juga!!<br>
-        Dapatkan Banyak Bonus Setelah Order Pertama Kalinya!!</h3> 
+      <h4>Tunggu Apalagi? Buruan Hits Di Tiktok Sekarang Juga!!<br>
+        Dapatkan Banyak Bonus Setelah Order Pertama Kalinya!!</h4> 
         {{-- <div class="d-grid gap-2 col-2 mx-auto">
           <button class="btn btn-primary" type="submit" onclick="openWhatsApp()">Pesan Sekarang</button>
         </div> --}}
