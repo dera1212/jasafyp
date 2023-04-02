@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jasa FYP Tiktok Indonesia No #1 Bergaransi 100% - jasafyp.com</title>
+    <title>Jasa FYP Tiktok - jasafyp.com</title>
 
     <meta name="description" content="Layanan jasa FYP tiktok indonesia no #1 termurah dan bergaransi 100%, follower bertambah, view, like dan komentar pun semakin banyak.">
 
@@ -19,17 +19,17 @@
     <meta http-equiv="content-language" content="id">
     <meta http-equiv="content-language" content="en-us">
 
-    <meta property="og:title" content="Jasa FYP Tiktok Indonesia No #1 Bergaransi 100% - jasafyp.com" />
+    <meta property="og:title" content="Jasa FYP Tiktok - jasafyp.com" />
     <meta property="og:description" content="Layanan jasa FYP tiktok indonesia no #1 termurah dan bergaransi 100%, follower bertambah, view, like dan komentar pun semakin banyak."/>
     <meta property="og:url" content="https://www.jasafyp.com/" />
-    <meta property="og:locale" content="id" />
+    <meta property="og:locale" content="id_ID" />
     <meta property="og:image" content="{{ asset('img/logotiktok.webp') }}" />
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://www.jasafyp.com/"/>
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@jeni_lutfi2" />
-    <meta name="twitter:title" content="Jasa FYP Tiktok Indonesia No #1 Bergaransi 100% - jasafyp.com" />
+    <meta name="twitter:title" content="Jasa FYP Tiktok - jasafyp.com" />
     <meta name="twitter:description" content="Layanan jasa FYP tiktok indonesia no #1 termurah dan bergaransi 100%, follower bertambah, view, like dan komentar pun semakin banyak." />
     <meta name="twitter:image" content="{{ asset('img/logotiktok.webp') }}" />
 
@@ -37,8 +37,6 @@
 
     {{-- css --}}
     <link rel="stylesheet" href="{{ asset('css/style.css?v=1.6') }}">
-
-    
 
     @include('landingpage.taganalitik')
 
@@ -191,8 +189,8 @@
 
 
     <div class="container promosi">
-      <h4>Tunggu Apalagi? Buruan Hits Di Tiktok Sekarang Juga!!
-        Dapatkan Banyak Bonus Setelah Order Pertama Kalinya!!</h4>         
+      <h3>Tunggu Apalagi? Buruan Hits Di Tiktok Sekarang Juga!!
+        Dapatkan Banyak Bonus Setelah Order Pertama Kalinya!!</h3>         
     </div>
 
     @include('landingpage.footer')
