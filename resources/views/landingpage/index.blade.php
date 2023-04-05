@@ -11,9 +11,9 @@
 
     <meta name="author" content="Rizal Ahmad">
 
-    <link rel="canonical" href="https://www.jasafyp.com/"/>
-    <link rel="alternate" hreflang="en-us" href="https://www.jasafyp.com/">
-    <link rel="alternate" hreflang="id-id" href="https://www.jasafyp.com/">
+    <link rel="canonical" href="https://jasafyp.com/"/>
+    <link rel="alternate" hreflang="en-us" href="https://jasafyp.com/">
+    <link rel="alternate" hreflang="id-id" href="https://jasafyp.com/">
 
     <meta http-equiv="content-language" content="id-id">
     <meta http-equiv="content-language" content="id">
@@ -21,11 +21,11 @@
 
     <meta property="og:title" content="Jasa FYP Tiktok - jasafyp.com" />
     <meta property="og:description" content="Layanan jasa FYP tiktok indonesia no #1 termurah dan bergaransi 100%, follower bertambah, view, like dan komentar pun semakin banyak."/>
-    <meta property="og:url" content="https://www.jasafyp.com/" />
+    <meta property="og:url" content="https://jasafyp.com/" />
     <meta property="og:locale" content="id_ID" />
     <meta property="og:image" content="{{ asset('img/logotiktok.webp') }}" />
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://www.jasafyp.com/"/>
+    <meta property="og:url" content="https://jasafyp.com/"/>
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@jeni_lutfi2" />
